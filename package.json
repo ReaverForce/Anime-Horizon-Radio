@@ -1,6 +1,6 @@
 {
-  "name": "Anime-Horizon-Radio",
-  "description": "Bot using heroku 24/7!.",
+  "name": "anime-horizon-radio",
+  "description": "bot using heroku 24/7!",
   "version": "0.0.0",
   "main": "bot.js",
   "scripts": {
